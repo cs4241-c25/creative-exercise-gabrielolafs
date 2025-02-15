@@ -1,5 +1,4 @@
-https://creative-exercise-gabrielolafs.glitch.me/ (Glitch has been having issues with my files, so if it does not load 
-it may have to be run locally)
+https://creative-exercise-gabrielolafs.vercel.app/ (Glitch is glitching)
 
 ## Canvas Drawing
 I chose to do the Canvas Drawing exercise. This was after spending a few hours trying to get the Web Audio API to work, 
